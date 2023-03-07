@@ -1,0 +1,6 @@
+
+
+x, y = re.split(" ",input("Enter two values: "))
+print(int(x)+int(y))
+print(type(int(x)+int(y)))
+
